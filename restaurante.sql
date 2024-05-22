@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 22-05-2024 a las 21:43:03
+-- Tiempo de generación: 22-05-2024 a las 22:29:58
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -38,18 +38,18 @@ CREATE TABLE `lista_de_comidas` (
 --
 
 INSERT INTO `lista_de_comidas` (`Numero`, `Plato`, `Precio_porcion`) VALUES
-(1, 'Milanesa a la Napolitana', 5200.00),
-(2, 'Pasel de Papa', 4400.00),
+(1, 'Milanesa a la Napolitana', 16200.00),
+(2, 'Pastel de Papa', 9400.00),
 (3, 'Ensalada Rusa', 3500.00),
-(4, 'Asado', 7000.00),
-(5, 'Pizza', 5000.00),
-(6, 'Carbonada', 5200.50),
-(7, 'Empanadas', 2100.00),
-(8, 'Sopa de Mondongo', 2900.00),
-(9, 'Mollejas al Limón', 2500.00),
-(10, 'Ravioles de Ricota', 3700.00),
+(4, 'Asado', 17000.00),
+(5, 'Pizza', 10500.00),
+(6, 'Carbonada', 15200.50),
+(7, 'Empanadas', 5500.00),
+(8, 'Sopa de Mondongo', 6900.00),
+(9, 'Mollejas al Limon', 4500.00),
+(10, 'Ravioles de Ricota', 6700.00),
 (11, 'Tarta de Manzana', 3400.00),
-(12, 'Tiramisú', 2500.00);
+(12, 'Tiramisu', 2500.00);
 
 --
 -- Índices para tablas volcadas
